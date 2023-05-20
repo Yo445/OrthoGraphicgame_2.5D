@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/L1.unity
+    guid: 718682160e6183e4fb76b4b36efd56e0
+  - enabled: 1
+    path: Assets/Scenes/PLAY/level_1.unity
+    guid: aae6396fa960908479d17d4dc1efd3ee
+  - enabled: 1
+    path: Assets/Scenes/PLAY/level_2.unity
+    guid: 299d1cd35b828224d84f9f09b9b06f64
+  - enabled: 1
+    path: Assets/Scenes/PLAY/level_3.unity
+    guid: 4f3e52e5593018047b5ef1571c12ff68
+  - enabled: 1
+    path: Assets/Scenes/PLAY/level_4.unity
+    guid: 1fb263ac8dc9ef047a23f823c4ec37c6
+  - enabled: 1
+    path: Assets/Scenes/Endd.unity
+    guid: a5d85516c154a2f4b8a9ce45eba684f5
+  - enabled: 1
+    path: Assets/Scenes/MAZE/Maze-1.unity
+    guid: 7d9ab931bcbca5842ab932d9a44f1834
+  - enabled: 1
+    path: Assets/Scenes/MAZE/Maze-2.unity
+    guid: a987895d04b8ca140a494e37dece6172
+  - enabled: 1
+    path: Assets/Scenes/MAZE/Maze-3.unity
+    guid: 680a2d1f0ba6f2d4d9f498e77f70c6ae
+  - enabled: 1
+    path: Assets/Scenes/MAZE/Maze-4.unity
+    guid: 67c42e64a31692f439b494caff252f32
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
